@@ -1,0 +1,3 @@
+- name: ansible-bug-test-role
+  src: https://github.com/TimJones/ansible-bug-test-role.git
+  scm: git
